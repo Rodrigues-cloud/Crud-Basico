@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebok MacPro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20",
+      "price": "7795.90"
+    },
+    {
+      "name": "Uesley Cadastrou no Formulario",
+      "price": "100.99",
+      "id": 4
+    },
+    {
+      "name": "Pollyanna Cadastrou, Geladeira",
+      "price": "3338.90",
+      "id": 5
+    }
+  ]
+}
